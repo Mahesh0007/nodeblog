@@ -20,7 +20,7 @@
     "monk": "^1.0.1",
     "morgan": "~1.6.1",
     "multer": "*",
-    "serve-favicon": "~2.3.0",
-    "nothing":""
+    "serve-favicon": "~2.3.0"
+    
   }
 }
