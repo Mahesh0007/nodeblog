@@ -1,4 +1,0 @@
-https://ws1.aholdusa.com/jping/idp/startSSO.ping?PartnerSpId=Remedy&TARGET=http://remedyweb1.us.royalahold.net:8029/arsys/
-
-
-http://s0adccryrptp1.us.royalahold.net:9292/arsys/shared/login.jsp?/arsys/
